@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "soundmanager2": "^2.97.20170602"
   },
   "scripts": {
     "start": "react-scripts start",
