@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
-import './App.css';
 let { soundManager } = require('soundmanager2');
 
 const audioUrl = 'https://lingomastery.s3.amazonaws.com/audio/A0rvqIm27.mp3';
